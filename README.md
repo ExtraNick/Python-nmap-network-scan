@@ -3,5 +3,6 @@ Script Jupyter Notebook para Scaneamento de rede para obteção IP, MAC e Vended
 
 ## Requisitos
 Nmap <br>
+python-nmap <br>
 Pandas <br>
 Jupyter <br>
